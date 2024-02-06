@@ -1,5 +1,5 @@
 """
-This file demonstrates how to use different machine learning model to analyze boston housing dataset.
+This file demonstrates how to use different machine learning models to analyze boston housing.
 """
 
 import math
