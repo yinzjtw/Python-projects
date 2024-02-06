@@ -1,6 +1,6 @@
 # Python-projects
 Thank you for visiting! This repository holds my programming projects done during the period of stanCode courses.\
-這裡記錄我在StanCode課程中寫的案例!\
+這裡記錄我在StanCode課程中寫的案例!
 
 1. [Hangman吊死鬼遊戲](https://github.com/yinzjtw/Python-projects/blob/main/hangman%E5%90%8A%E6%AD%BB%E9%AC%BC%E9%81%8A%E6%88%B2.py)\
    python semantics & syntax
