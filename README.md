@@ -1,6 +1,6 @@
 # Python-projects
 
-•	[Hangman吊死鬼遊戲] (https://github.com/yinzjtw/Python-projects/blob/main/hangman%E5%90%8A%E6%AD%BB%E9%AC%BC%E9%81%8A%E6%88%B2.py)\
+•	[Hangman吊死鬼遊戲] (https://github.com/yinzjtw/Python-projects/blob/main/hangman%E5%90%8A%E6%AD%BB%E9%AC%BC%E9%81%8A%E6%88%B2.py)
   o	python semantics & syntax\
 •	[caesar凱薩密碼](https://github.com/yinzjtw/Python-projects/blob/main/caesar%E5%87%B1%E8%96%A9%E5%AF%86%E7%A2%BC.py)\
   o	python semantics & syntax\
