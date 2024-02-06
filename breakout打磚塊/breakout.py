@@ -28,7 +28,7 @@ def main():
         if used_life == NUM_LIVES or count_brick == graphics.total_bricks:
             break
         else:
-            dx = graphics.get_dx()  #self.__dx一開始抓的值多少 不會因為後面改而變動 除非CODER端的SEIF DX DY改變 所以要SETTER
+            dx = graphics.get_dx() 
             dy = graphics.get_dy()
             graphics.ball.move(dx, dy)
             pause(FRAME_RATE)
@@ -37,7 +37,7 @@ def main():
             if graphics.ball.x < 0 or graphics.ball.x + graphics.ball.width > graphics.window.width:
                 graphics.set_dx(-dx)
             if graphics.ball.y <= 0:
-                graphics.set_dy(-dy)  # 用setter改coder端儲存的dx值，迴圈就會get到新的值
+                graphics.set_dy(-dy)  
 
             # If ball falls out of the horizontal line, lost one life.
             # Put a stationary new ball at the starting position.
